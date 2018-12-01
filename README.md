@@ -1,5 +1,5 @@
-# My favorate books
-Website for favorate book
+# My favorite books
+Website for favorite book
 
 Front end: React, Materialize.css
 State management: Redux, thunk
