@@ -1,0 +1,2 @@
+export const BOOKS_FETCHED = 'BOOKS_FETCHED';
+export const BOOK_CREATED = 'BOOK_CREATED';
