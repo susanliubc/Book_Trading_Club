@@ -2,7 +2,7 @@ import React from 'react';
 import { Link, NavLink, withRouter } from 'react-router-dom';
 
 const Navbar = (props) = (
-        <nav className="nav-wrapper purpule ligthen-3">
+        <nav className="nav-wrapper teal ligthen-3">
             <div className="container">
                 <Link className='brand-logo' to='/'>Favorite Books</Link>
                 <ul className="right">
